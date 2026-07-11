@@ -12,4 +12,4 @@ I'm a Biotechnology engineer bridging the gap between wet-lab research and compu
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
 ### 📊 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=HetMevada-Code&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?HetMevada-Code&show_icons=true&theme=radical)
