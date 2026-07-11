@@ -10,7 +10,7 @@ I'm a **B.Tech Biotechnology** graduate turning my wet-lab foundation into compu
 
 ### 🧬 Bioinformatics Projects & Focus
 
-- 🚀 **Currently developing:** [**Oligo-COMPASS**](#) — a Python suite for automated CRISPR guide RNA design, PCR primer generation, and virtual gel electrophoresis simulation.
+- 🚀 **Currently developing:** **Oligo-COMPASS** — a Python suite for automated CRISPR guide RNA design, PCR primer generation, and virtual gel electrophoresis simulation.
 - 🤖 **Workflow:** Leveraging AI-augmented tools (Gemini Pro, DeepSeek, Copilot) for rapid prototyping and complex logic debugging.
 - 📈 **Currently learning:** Strengthening CS fundamentals (Harvard CS50x) and exploring applied mathematics for bioprocess engineering.
 - ⚡ **Fun fact:** I built **Ampli_Friends**, a Telegram bot that puts bioinformatics tools in your pocket.
