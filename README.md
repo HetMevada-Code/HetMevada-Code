@@ -6,3 +6,7 @@ I'm a Biotechnology engineer bridging the gap between wet-lab research and compu
 - 💻 **Tech Stack:** Python, Bioinformatics pipelines, and AI-assisted prototyping.
 - 🎓 **Education:** Final-year B.Tech in Biotechnology (GATE Qualified)
 - ⚡ **Fun fact:** I built a Telegram bot (Ampli_Friends) to make bioinformatics tools accessible on the go.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+</p>
