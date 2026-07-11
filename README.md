@@ -8,5 +8,9 @@ I'm a Biotechnology engineer bridging the gap between wet-lab research and compu
 - ⚡ **Fun fact:** I built a Telegram bot (Ampli_Friends) to make bioinformatics tools accessible on the go.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HetMevada-Code&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HetMevada-Code&show_icons=true&theme=radical" alt="Your GitHub Stats" />
 </p>
