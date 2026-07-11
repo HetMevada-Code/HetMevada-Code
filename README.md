@@ -43,3 +43,8 @@ I'm a **B.Tech Biotechnology** graduate turning my wet-lab foundation into compu
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HetMevada-Code&show_icons=true&theme=tokyonight&hide_border=true" alt="Het's GitHub Stats" />
 </p>
+
+</p>
+<p align="center">
+  <img src="./assets/profile-card.svg" alt="Het's bioinformatics skills card" width="880" />
+</p>
